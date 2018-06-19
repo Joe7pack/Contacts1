@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="employee_detail">Contact Detail</string>
+    <string name="employee_master">Contacts</string>
+    <string name="action">Favorite</string>
+    <color name="white">#FFFFFF</color>
+</resources>
